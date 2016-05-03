@@ -1,0 +1,11 @@
+G:\C#\WinDE\WinDE\bin\Release\WinDE.exe
+G:\C#\WinDE\WinDE\bin\Release\WinDE.pdb
+G:\C#\WinDE\WinDE\bin\Release\Interop.Office.dll
+G:\C#\WinDE\WinDE\obj\Release\WinDE.csprojResolveAssemblyReference.cache
+G:\C#\WinDE\WinDE\obj\Release\Interop.Office.dll
+G:\C#\WinDE\WinDE\obj\Release\WinDE.csproj.ResolveComReference.cache
+G:\C#\WinDE\WinDE\obj\Release\WinDE.Form1.resources
+G:\C#\WinDE\WinDE\obj\Release\WinDE.Properties.Resources.resources
+G:\C#\WinDE\WinDE\obj\Release\WinDE.csproj.GenerateResource.Cache
+G:\C#\WinDE\WinDE\obj\Release\WinDE.exe
+G:\C#\WinDE\WinDE\obj\Release\WinDE.pdb
